@@ -116,8 +116,8 @@ assets/screenshots/
 
 Example usage in README:
 
-![Input Screen](assets/screenshots/input_screen.png)
-![Result Screen](assets/screenshots/result_screen.png)
+![Input Screen](asset/screenshots/input_screen.png)
+![Result Screen](asset/screenshots/result_screen.png)
 
 🚀 Future Enhancements
 
